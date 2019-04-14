@@ -1,6 +1,6 @@
 {
   "name": "naru",
-  "description": "Nuxt utility",
+  "description": "Nuxt cli utility",
   "version": "0.0.0",
   "author": "hota1024 @hota1024",
   "bin": {

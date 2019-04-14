@@ -1,7 +1,7 @@
 naru
 ====
 
-Nuxt utility
+Nuxt cli utility
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/naru.svg)](https://npmjs.org/package/naru)
@@ -28,14 +28,17 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [`naru config`](#naru-config)
-* [`naru create-component NAME`](#naru-create-component-name)
-* [`naru create-layout NAME`](#naru-create-layout-name)
-* [`naru create-middleware NAME`](#naru-create-middleware-name)
-* [`naru create-page NAME`](#naru-create-page-name)
-* [`naru create-plugin NAME`](#naru-create-plugin-name)
-* [`naru create-store NAME`](#naru-create-store-name)
-* [`naru help [COMMAND]`](#naru-help-command)
+- [naru](#naru)
+- [Usage](#usage)
+- [Commands](#commands)
+  - [`naru config`](#naru-config)
+  - [`naru create-component NAME`](#naru-create-component-name)
+  - [`naru create-layout NAME`](#naru-create-layout-name)
+  - [`naru create-middleware NAME`](#naru-create-middleware-name)
+  - [`naru create-page NAME`](#naru-create-page-name)
+  - [`naru create-plugin NAME`](#naru-create-plugin-name)
+  - [`naru create-store NAME`](#naru-create-store-name)
+  - [`naru help [COMMAND]`](#naru-help-command)
 
 ## `naru config`
 
